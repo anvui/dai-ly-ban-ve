@@ -1,1 +1,3 @@
-# dai-ly-ban-ve
+npm install
+
+npm run dev
